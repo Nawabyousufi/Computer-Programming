@@ -4,7 +4,9 @@ public class CSCExample{
   String text;  
 
 public void addQuestion(CSCExample Qu){
-	
+	qu=qu.questionNO;
+	category=qu.category;
+	text=qu.text;
 }
 public void removeQuestion(int quId){
 	
