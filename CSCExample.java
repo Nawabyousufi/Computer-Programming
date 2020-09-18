@@ -13,11 +13,7 @@ public void removeQuestion(int quId){
 }
 public void editQuestion(int quId){
 	
-}
-	
-
-public CSCEXample{
-	
+}	
 public void setQuestionNo(int i){
 	questionNo=i;
   }
@@ -37,6 +33,5 @@ public int getText(){
 	return text;
 
    }
- }
 
 }
