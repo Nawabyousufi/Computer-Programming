@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 public class CSCExample{
   int questionNO;
   String category;
@@ -17,11 +15,8 @@ public void editQuestion(int quId){
 	
 }
 	
-=======
-public CSCEXamples{
-=======
+
 public CSCEXample{
->>>>>>> Phys
 	
 public void setQuestionNo(int i){
 	questionNo=i;
@@ -40,10 +35,8 @@ public int getCategory(){
  }
 public int getText(){
 	return text;
-<<<<<<< HEAD
-}
->>>>>>> Phys
-=======
-  }
->>>>>>> Phys
+
+   }
+ }
+
 }
